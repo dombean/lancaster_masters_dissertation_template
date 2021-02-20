@@ -1,3 +1,3 @@
-Modified Latex Template From: ErickChacon/lancs-thesis
+Modified Latex Template From: __ErickChacon/lancs-thesis__
 
-Too see what the complied PDF document looks like refer to file __lancaster_masters_dissertation_template.pdf__.
+Refer to file __lancaster_masters_dissertation_template.pdf__ to see what the complied PDF looks like.
